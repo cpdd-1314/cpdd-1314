@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.tcb
+frontend/.env
+.DS_Store
+*.log
+backend/
+docs/
+.cloudstudio
+.codebuddy/
+.genie/
